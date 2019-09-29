@@ -1,0 +1,10 @@
+C:\Users\carlo\source\repos\PCSleep\PCSleep\bin\Release\PCSleep.exe.config
+C:\Users\carlo\source\repos\PCSleep\PCSleep\bin\Release\PCSleep.exe
+C:\Users\carlo\source\repos\PCSleep\PCSleep\bin\Release\PCSleep.pdb
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.Form1.resources
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.Properties.Resources.resources
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.csproj.GenerateResource.cache
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.csproj.CoreCompileInputs.cache
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.exe
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.pdb
+C:\Users\carlo\source\repos\PCSleep\PCSleep\obj\Release\PCSleep.csprojAssemblyReference.cache
